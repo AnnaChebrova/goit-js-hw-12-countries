@@ -1,0 +1,21 @@
+body {
+    font-family: 'Open Sans';
+    background: wheat;
+  }
+
+ .form-container {
+ padding-top: 20px;
+ padding-left: 20px;
+ }
+
+.country-title {
+display: flex;
+justify-content: space-between;
+width: 500px;
+padding-top: 50px;
+}
+
+.country-info {
+    width: 500px;
+    padding-left: 100px;
+}
